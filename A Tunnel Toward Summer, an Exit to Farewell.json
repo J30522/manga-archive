@@ -4,5 +4,17 @@
   "artist": "Koudon",
   "author": "Hachimoku Mei",
   "cover": "https://imgur.com/a/gtWsIEx",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "Monochromatic Sunshine",
+      "volume": "1",
+      "last_updated": "1644950470",
+      "groups": {
+        "": [
+          "https://i.imgur.com/VKj6KXe.png",
+          "https://i.imgur.com/vqjERlH.png"
+        ]
+      }
+    }
+  }
 }
