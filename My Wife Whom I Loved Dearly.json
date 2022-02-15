@@ -1,0 +1,17 @@
+{
+  "title": "My Wife Whom I Loved Dearly",
+  "description": "Love endures...",
+  "artist": "Takeda Toryumon",
+  "author": "Takeda Toryumon",
+  "cover": "https://imgur.com/2DJ81p9.png",
+  "chapters": {
+    "1": {
+      "title": "One Shot",
+      "volume": "1",
+      "last_updated": "1644954471",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EDF1njx"
+      }
+    }
+  }
+}
