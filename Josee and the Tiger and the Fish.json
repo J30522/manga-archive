@@ -1,0 +1,33 @@
+{
+  "title": "Josee and the Tiger and the Fish",
+  "description": "Tsuneo is working to fund his goal of studying abroad, throwing himself at part time jobs when a chance meeting with an old lady and her grand daughter brings unexpected results.",
+  "artist": "Emoto Nao",
+  "author": "Tanabe Seiko",
+  "cover": "https://imgur.com/76BaPGQ.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1644965312",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/fzskLC7"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1644965332",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/5ApmTAo"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1644965357",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/3CoOKqd"
+      }
+    }
+  }
+}
