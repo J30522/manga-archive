@@ -1,0 +1,25 @@
+{
+  "title": "Fenrir, the One Who Would Shake the Earth",
+  "description": "A significantly reimagined story of Temujin, who the world will soon come to know as Genghis Khan, from his early beginning in the steppe and his chance meeting with a mysterious woman who claims to be the Fenrir, the One Who Would Shake the Earth, to his ultimate destiny as the ruler of all.",
+  "artist": "Oonishi Mioko",
+  "author": "Akamatsu Chuugaku",
+  "cover": "https://i.imgur.com/cOTnBXQ.png",
+  "chapters": {
+    "1": {
+      "title": "The One Who Would Shake the Earth, part 1",
+      "volume": "1",
+      "last_updated": "1644952995",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/0mznBwe"
+      }
+    },
+    "2": {
+      "title": "\tThe One Who Would Shake the Earth, part 1",
+      "volume": "1",
+      "last_updated": "1644953049",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/8tQwXSf"
+      }
+    }
+  }
+}
