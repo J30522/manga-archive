@@ -1,0 +1,49 @@
+{
+  "title": "The Demon King's Return",
+  "description": "A boy who lost all meaning to his life when the game of baseball was taken from him. A girl who had her family taken from her by one who should have loved her the most, her mother. And a Demon King who is chased home by her Hero... Three hurt souls, and one shared redemption.",
+  "artist": "Arashiyama Nori",
+  "author": "Ichiho Michi",
+  "cover": "https://imgur.com/doMBcPx",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1644953633",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/izegBaO"
+      }
+    },
+    "2": {
+      "title": "2",
+      "volume": "1",
+      "last_updated": "1644953666",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/IoEN9lO"
+      }
+    },
+    "3": {
+      "title": "3",
+      "volume": "1",
+      "last_updated": "1644953727",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Dsykz04"
+      }
+    },
+    "4": {
+      "title": "4",
+      "volume": "1",
+      "last_updated": "1644953787",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Xqw5SmT"
+      }
+    },
+    "5": {
+      "title": "5",
+      "volume": "1",
+      "last_updated": "1644953818",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/epxsIWQ"
+      }
+    }
+  }
+}
