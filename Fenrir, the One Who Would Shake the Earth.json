@@ -20,6 +20,22 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/8tQwXSf"
       }
+    },
+    "3": {
+      "title": "The One Who Would Shake the Earth, part 3",
+      "volume": "1",
+      "last_updated": "1644953109",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/XY2WUKp"
+      }
+    },
+    "4": {
+      "title": "The One Who Would Shake the Earth, part 4",
+      "volume": "1",
+      "last_updated": "1644953143",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/TNCtsso"
+      }
     }
   }
 }
