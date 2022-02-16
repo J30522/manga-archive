@@ -1,0 +1,25 @@
+{
+  "title": "To Strip the Flesh",
+  "description": "",
+  "artist": "Tooda Oto",
+  "author": "Tooda Oto",
+  "cover": "https://imgur.com/TwWOmCd.png",
+  "chapters": {
+    "1": {
+      "title": "To Strip the Flesh, oneshot",
+      "volume": "1",
+      "last_updated": "1644975727",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/TQwe8zy"
+      }
+    },
+    "2": {
+      "title": "To Strip the Flesh, epilogue (Chiaki and Pops and Chiaki and Takafuji)",
+      "volume": "1",
+      "last_updated": "1644975756",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/3QX8DdO"
+      }
+    }
+  }
+}
