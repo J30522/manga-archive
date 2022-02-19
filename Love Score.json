@@ -1,0 +1,97 @@
+{
+  "title": "Love Score",
+  "description": "",
+  "artist": "LEN[A-7]",
+  "author": "LEN[A-7]",
+  "cover": "https://imgur.com/FHU69su.png",
+  "chapters": {
+    "1": {
+      "title": "Yuuji and Chise",
+      "volume": "1",
+      "last_updated": "1645234475",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/EJ5vog9"
+      }
+    },
+    "2": {
+      "title": "Yuuji and Sumire",
+      "volume": "1",
+      "last_updated": "1645234515",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/S8P8d0a"
+      }
+    },
+    "3": {
+      "title": "Yuuji and Ayaka",
+      "volume": "1",
+      "last_updated": "1645234625",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/LbfZieU"
+      }
+    },
+    "4": {
+      "title": "Moe and Yuuji",
+      "volume": "1",
+      "last_updated": "1645234651",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/x1Ujmpm"
+      }
+    },
+    "5": {
+      "title": "Yuuji and Mia",
+      "volume": "1",
+      "last_updated": "1645234674",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DeRTAlO"
+      }
+    },
+    "6": {
+      "title": "Chise and Kyouhei",
+      "volume": "1",
+      "last_updated": "1645234696",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/obGtB0F"
+      }
+    },
+    "7": {
+      "title": "Chise and Haru",
+      "volume": "2",
+      "last_updated": "1645234725",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Nlx8A3v"
+      }
+    },
+    "8": {
+      "title": "Reina and Minoru",
+      "volume": "2",
+      "last_updated": "1645234755",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Lm8Mrc6"
+      }
+    },
+    "9": {
+      "title": "Shinya and Chise",
+      "volume": "2",
+      "last_updated": "1645234779",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/VN4UKOW"
+      }
+    },
+    "10": {
+      "title": "Chise and Ichitaka",
+      "volume": "2",
+      "last_updated": "1645234799",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ZzRjALi"
+      }
+    },
+    "11": {
+      "title": "The End",
+      "volume": "2",
+      "last_updated": "1645234824",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/JPsfSro"
+      }
+    }
+  }
+}
