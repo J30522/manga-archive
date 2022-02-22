@@ -1,0 +1,17 @@
+{
+  "title": "Minpo Kaisei",
+  "description": "",
+  "artist": "Takeuchi Sakura",
+  "author": "Akahori Satoru",
+  "cover": "https://imgur.com/IekOZhn.png",
+  "chapters": {
+    "1": {
+      "title": "Article 732 of the Amended Civil Code",
+      "volume": "1",
+      "last_updated": "1645494398",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/cRoUCjC"
+      }
+    }
+  }
+}
