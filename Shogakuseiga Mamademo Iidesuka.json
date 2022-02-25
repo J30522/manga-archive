@@ -3,7 +3,7 @@
   "description": "",
   "artist": "Ditama Bow",
   "author": "Ditama Bow",
-  "cover": "",
+  "cover": "https://imgur.com/B0nnv8H.jpg",
   "chapters": {
     "1": {
       "title": "It's Mama",
@@ -11,6 +11,14 @@
       "last_updated": "1645751992",
       "groups": {
         "": "/proxy/api/imgur/chapter/oIzfoM3"
+      }
+    },
+    "2": {
+      "title": "I Believe You",
+      "volume": "1",
+      "last_updated": "1645752033",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/1PseJaF"
       }
     }
   }
