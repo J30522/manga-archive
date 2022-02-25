@@ -1,0 +1,25 @@
+{
+  "title": "Shougakusei ga Mama demo Iidesuka?",
+  "description": "",
+  "artist": "Ditama Bow",
+  "author": "Ditama Bow",
+  "cover": "",
+  "chapters": {
+    "1": {
+      "title": "It's Mama",
+      "volume": "",
+      "last_updated": "1645751752",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/oIzfoM3"
+      }
+    },
+    "2": {
+      "title": "I Believe You",
+      "volume": "",
+      "last_updated": "1645751784",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/1PseJaF"
+      }
+    }
+  }
+}
