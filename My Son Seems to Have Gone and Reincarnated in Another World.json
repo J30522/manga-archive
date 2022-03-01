@@ -6,7 +6,7 @@
   "cover": "https://i.imgur.com/wE9GSsB.png",
   "chapters": {
     "1": {
-      "title": "1",
+      "title": "Why Did You Contact Me?",
       "volume": "1",
       "last_updated": "1645013351",
       "groups": {
@@ -14,7 +14,7 @@
       }
     },
     "2": {
-      "title": "2",
+      "title": "What Are You Thinking About!",
       "volume": "1",
       "last_updated": "1645013370",
       "groups": {
@@ -22,7 +22,7 @@
       }
     },
     "3": {
-      "title": "3",
+      "title": "Because This is Real Life, That's Why",
       "volume": "1",
       "last_updated": "1645013399",
       "groups": {
@@ -30,7 +30,7 @@
       }
     },
     "4": {
-      "title": "4",
+      "title": "Not All That Into It...",
       "volume": "1",
       "last_updated": "1645301383",
       "groups": {
@@ -38,11 +38,21 @@
       }
     },
     "5": {
-      "title": "5",
+      "title": "Maybe I...",
       "volume": "1",
       "last_updated": "1645375449",
       "groups": {
         "": "/proxy/api/imgur/chapter/dLWlsN7"
+      }
+    },
+    "6": {
+      "title": "Is She for Real...!",
+      "volume": "1",
+      "last_updated": "1646135769",
+      "groups": {
+        "": [
+          "/proxy/api/imgur/chapter/7vkq0Vq"
+        ]
       }
     }
   }
