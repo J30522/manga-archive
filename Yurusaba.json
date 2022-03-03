@@ -44,6 +44,30 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/KK4QtQ4"
       }
+    },
+    "6": {
+      "title": "Treasure Hunting",
+      "volume": "2",
+      "last_updated": "1646343242",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Gfxux8h"
+      }
+    },
+    "7": {
+      "title": "Turtle Stew",
+      "volume": "2",
+      "last_updated": "1646343408",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/UOJ6PWR"
+      }
+    },
+    "8": {
+      "title": "Our Wings",
+      "volume": "2",
+      "last_updated": "1646343463",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/Hjt3yWF"
+      }
     }
   }
 }
