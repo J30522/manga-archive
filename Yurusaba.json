@@ -12,6 +12,38 @@
       "groups": {
         "": "/proxy/api/imgur/chapter/UKRERym"
       }
+    },
+    "2": {
+      "title": "I Wanna Eat Meat",
+      "volume": "1",
+      "last_updated": "1646325813",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/f72Qxhf"
+      }
+    },
+    "3": {
+      "title": "Unfulfilled Dreams",
+      "volume": "1",
+      "last_updated": "1646325860",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/ge8E7bL"
+      }
+    },
+    "4": {
+      "title": "Pointless!!?",
+      "volume": "1",
+      "last_updated": "1646325914",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/DcARgxB"
+      }
+    },
+    "5": {
+      "title": "Exploration of Shunjuku",
+      "volume": "1",
+      "last_updated": "1646325974",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/KK4QtQ4"
+      }
     }
   }
 }
