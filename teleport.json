@@ -3,6 +3,15 @@
   "description": "Source: https://shonenjumpplus.com/episode/3269754496773004875#",
   "artist": "Nichimura Nomichi",
   "author": "Nichimura Nomichi",
-  "cover": "https://imgur.com/3KLApiM.png",
-  "chapters": {}
+  "cover": "https://imgur.com/sDLSZuH.png",
+  "chapters": {
+    "1": {
+      "title": "Oneshot",
+      "volume": "1",
+      "last_updated": "1646536514",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/d5KxYRa"
+      }
+    }
+  }
 }
