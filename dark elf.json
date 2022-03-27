@@ -1,0 +1,17 @@
+{
+  "title": "dark elf",
+  "description": "",
+  "artist": "",
+  "author": "",
+  "cover": "https://imgur.com/W9OOoLA.png",
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "1",
+      "last_updated": "1648381022",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/BsXXJ6B"
+      }
+    }
+  }
+}
