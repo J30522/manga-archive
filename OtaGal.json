@@ -6,7 +6,7 @@
   "cover": "https://imgur.com/AJTNAXr.png",
   "chapters": {
     "1": {
-      "title": "Otaku and Gyaru and Kiramon",
+      "title": "Otaku & Gyaru & Kiramon",
       "volume": "1",
       "last_updated": "1659795129",
       "groups": {
@@ -19,6 +19,14 @@
       "last_updated": "1660700762",
       "groups": {
         "": "/proxy/api/imgur/chapter/KNkgyV9"
+      }
+    },
+    "3": {
+      "title": "Otaku & Gyaru & Off-Campus Life",
+      "volume": "1",
+      "last_updated": "1661451747",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/zjGanct"
       }
     }
   }
