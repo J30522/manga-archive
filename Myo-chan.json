@@ -4,5 +4,14 @@
   "artist": "Muteki Soda",
   "author": "Kanari Tokusaku",
   "cover": "https://imgur.com/lhAz8am",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "The Etiquette Regarding Outdoor Sex",
+      "volume": "1",
+      "last_updated": "1676300722",
+      "groups": {
+        "": "/proxy/api/imgur/chapter/bnplNOT"
+      }
+    }
+  }
 }
