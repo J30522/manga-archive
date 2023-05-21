@@ -61,20 +61,12 @@
         "": "/proxy/api/imgur/chapter/lMwgcNy"
       }
     },
-    "8.1": {
-      "title": "Otaku & Gyaru & Protegee: Her First",
+    "8": {
+      "title": "Otaku & Gal & Protegee",
       "volume": "2",
-      "last_updated": "1684598188",
+      "last_updated": "1684668276",
       "groups": {
         "": "/proxy/api/imgur/chapter/a5109qo"
-      }
-    },
-    "8.2": {
-      "title": "Otaku & Gyaru & Protegee: Boy Meets Girl",
-      "volume": "2",
-      "last_updated": "1684667931",
-      "groups": {
-        "": "/proxy/api/imgur/chapter/pee4D7N"
       }
     }
   }
